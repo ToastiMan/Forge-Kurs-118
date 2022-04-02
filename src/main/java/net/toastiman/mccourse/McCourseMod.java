@@ -24,6 +24,8 @@ public class McCourseMod
 
     public static final String MOD_ID = "mccourse";
 
+    //This is a comment
+
     // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
 
